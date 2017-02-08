@@ -17,6 +17,7 @@
   "dependencies": {
     "node-uuid": "^1.4.1",
     "rrule": "2.1.0",
+    "rrule": "git://github.com/jonmaim/rrule.git#bae21f488abdcab8d975772b796959de65ad50bf",
     "request": "2.40.0"
   },
   "devDependencies": {
